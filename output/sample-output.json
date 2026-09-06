@@ -1,0 +1,38 @@
+{
+  "extraction_timestamp": "2026-09-06T16:37:26.612287",
+  "data": {
+    "emails": [
+      "support@company.com",
+      "alumni@alumni.alueducation.com",
+      "registrar@alueducation.com",
+      "help@si.alueducation.com"
+    ],
+    "urls": [
+      "https://www.example.com"
+    ],
+    "phones": [
+      "(123) 456-7890"
+    ],
+    "credit_cards": [
+      {
+        "full": "4111-1111-1111-1111",
+        "redacted": "****-****-****-1111"
+      },
+      {
+        "full": "5500 0000 0000 0004",
+        "redacted": "****-****-****-0004"
+      }
+    ],
+    "alu_emails": {
+      "official": [
+        "registrar@alueducation.com"
+      ],
+      "alumni": [
+        "alumni@alumni.alueducation.com"
+      ],
+      "si": [
+        "help@si.alueducation.com"
+      ]
+    }
+  }
+}
